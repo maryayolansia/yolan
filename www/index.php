@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>CRUD PHP MYSQL</title>
+    <title>Responsi TCC</title>
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
     <script type="text/javascript" src="assets/js/bootstrap.js"></script>
 </head>
